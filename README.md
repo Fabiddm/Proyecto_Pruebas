@@ -1,2 +1,2 @@
-# Test_2
+# Proyecto_Pruebas
 Repositorio pruebas inicio
